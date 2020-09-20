@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1600578463 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winapi\siempre_si\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1600578284 d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winapi\siempre_si\resource.h
+
+1600579134 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winapi\siempre_si\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<stdlib.h>
+	"resource.h"
+
+1600579134 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winapi\siempre_si\quieres-ser-mi-novia-c\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<stdlib.h>
+	"resource.h"
+
+1600578284 d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winapi\siempre_si\quieres-ser-mi-novia-c\resource.h
+
+1600578463 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winapi\siempre_si\quieres-ser-mi-novia-c\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
